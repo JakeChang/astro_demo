@@ -1,7 +1,7 @@
 {
-  "name": "astro-theme-creek",
+  "name": "jkastro",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
